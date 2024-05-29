@@ -1,5 +1,5 @@
 import { google, sheets_v4 } from 'googleapis';
-import credentials from './credentials';
+
 import { v4 as uid } from 'uuid';
 import axios from 'axios';
 
